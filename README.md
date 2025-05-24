@@ -7,16 +7,6 @@ I’m a **DevOps Engineer** with 3+ years of hands-on experience in cloud-native
 
 My professional journey blends deep operational insight with cloud engineering, delivering robust CI/CD pipelines, secure infrastructure, and seamless deployments using modern DevOps tools and best practices.
 
-<h3>💼 Professional Summary</h3>
-
-✅ 3+ years of experience in DevOps, Cloud Automation, and CI/CD pipeline implementation
-
-✅ 8+ years of experience integrating Microsoft Azure services with .NET Core, Web APIs, and Microservices Architecture
-
-✅ Proven expertise in automating deployments, managing containerized applications, and implementing DevSecOps practices
-
-✅ Strong background in application support, system monitoring, and cloud-native infrastructure design
-
 <h3> 🛠️ Tech Stack & Tools </h3>
 
 **☁️ Cloud Platforms:** Azure, AWS (basic)
